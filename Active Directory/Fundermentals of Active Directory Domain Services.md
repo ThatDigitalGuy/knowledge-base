@@ -14,7 +14,7 @@
 - Manage objects and their properties in AD DS.
 
 ## What is AD DS?
-Active Directory Domain Services (**AD DS**) and its related services form the foundation for enterprise networks that run the [[Windows]] [[Operating System]] (**OS**). The AD DS database is the central store of all the domain objects, such as user accounts, computer accounts, groups. It allows for a searchable, hierarchical directory and is a method on applying configuration and security settings.
+Active Directory Domain Services (**AD DS**) and its related services form the foundation for enterprise networks that run the Windows Operating System (**OS**). The AD DS database is the central store of all the domain objects, such as user accounts, computer accounts, groups. It allows for a searchable, hierarchical directory and is a method on applying configuration and security settings.
 
 > **Hierarchical** is defined as by [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/english/hierarchical)...
 > 	*"arranged according to people's or things' level of importance, or relating to such a system."*
