@@ -36,6 +36,12 @@ Next part is the disk partioning, on this page I am going to check the settings 
 
 ## Setting up the Administrator User
 
-I forgot to screenshot the setup for the Administrator account, however it asks for you to add a password to it. After that you can log in to the Windows Server.
+Once the inital setup is done, you will be asked to set the **Administrator** user's password. 
+
+![](https://thatdigitalguy.github.io/knowledge-base/Media/Active%20Directory/serv-setup/SRV01-setup-admin-pass.png)
+
+
+
+After that you can log in to the Windows Server.
 
 ![](https://thatdigitalguy.github.io/knowledge-base/Media/Active%20Directory/serv-setup/SRV01-system-login.png)
